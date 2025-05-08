@@ -1,4 +1,2 @@
 # Workchain
-jaza vtlv
-no...
 
